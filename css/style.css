@@ -1,0 +1,67 @@
+body {
+  background-color: #e5e5e5;
+}
+
+.middle-navbar {
+  padding: 13px;
+}
+
+.hero-component {
+  width: auto;
+  margin-top: 100px;
+}
+
+.collection-component {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.collection-component button {
+  margin-right: 50px;
+  border-radius: 10px;
+  font-weight: 700;
+  padding: 15px 25px;
+}
+
+.card {
+  margin-top: 100px;
+  border-radius: 20px;
+}
+
+.card-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  margin-top: 20px;
+}
+
+.card-one {
+  width: 30%;
+  height: 350px;
+  padding: 15px;
+  border-radius: 13px;
+}
+
+.shirt-card1 {
+  background-color: rgba(252, 203, 144, 0.44);
+}
+
+.button-section {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.main-poster {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  
+}
+
+.poster1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
